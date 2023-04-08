@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+/* body {
+  display: grid;
+  grid-template-areas:
+    "header header header"
+    "nav section aside"
+    "footer footer footer";
+  gap: 5px;
+  grid-template-columns: 15% 1fr 18%;
+  grid-template-rows: 88px 1fr 50px;
+
+  height: 100vh;
+  margin: 10px;
+} */
+
+
+

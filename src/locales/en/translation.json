@@ -1,0 +1,16 @@
+{
+    "Learn": "Learn Is React",
+    "description":"Edit src/App.tsx and save to reload.",
+    "OpenMenu":"Open main menu",
+    "home":"Home",
+    "About":"About",
+    "Services":"Services",
+    "Pricing":"Pricing",
+    "Contact":"Contact",
+    "Noteworthy":"Noteworthy technology acquisitions 2021",
+    "technology":"Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+    "article":"article of the day",
+    "Construction":"Construction of a nuclear power plant in Belgium",
+    "Discovery":"Discovery of neutron core in Venezuela"
+   
+}
